@@ -1,4 +1,3 @@
-# https://danielcook-threejs.vercel.app/
 
 <br>
 
